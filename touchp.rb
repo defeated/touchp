@@ -1,5 +1,3 @@
-require "formula"
-
 class Touchp < Formula
   url       "https://github.com/defeated/touchp/releases/download/0.0.1/touchp-0.1.1-darwin-amd64.zip"
   homepage  "https://github.com/defeated/touchp/"
