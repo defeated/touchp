@@ -6,7 +6,7 @@ basically `mkdir -p` + `touch`
 
 ### osx
 
-brew install https://github.com/defeated/touchp/formual.rb
+brew install https://raw.githubusercontent.com/defeated/touchp/master/formula.rb
 
 ## usage
 
