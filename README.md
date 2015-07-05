@@ -2,6 +2,12 @@
 
 basically `mkdir -p` + `touch`
 
+## install
+
+### osx
+
+brew install https://github.com/defeated/touchp/formual.rb
+
 ## usage
 
 ```sh
